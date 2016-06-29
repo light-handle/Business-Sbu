@@ -1,9 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<<<<<<< HEAD
 <syllabus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  title="DAT Advantage On Site Added uuid" description="Syllabus for DAT 2015 Advantage On Site added uuid" xsi:noNamespaceSchemaLocation="urn:kaptest:names:tc:dita:xsd:syllabusMap.xsd">
-=======
 <syllabus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  title="DAT Advantage On Site for UUID" description="Syllabus for DAT 2015 Advantage On Site" xsi:noNamespaceSchemaLocation="urn:kaptest:names:tc:dita:xsd:syllabusMap.xsd">
->>>>>>> 190b635895da2f1c72614634341ed7a4d8b3d78e
   <source name="jasper">
     <data name="jasper-product-code" value="DAT2015"/>
   </source>
